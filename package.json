@@ -1,6 +1,6 @@
 {
   "name": "flipcoin-headstails",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prints heads/tails with 50/50 probability",
   "main": "index.js",
   "bin": {
