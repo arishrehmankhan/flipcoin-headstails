@@ -1,0 +1,28 @@
+{
+  "name": "flipcoin-headstails",
+  "version": "1.0.0",
+  "description": "Prints heads/tails with 50/50 probability",
+  "main": "index.js",
+  "bin": {
+    "flipcoin-headstails": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arishrehmankhan/flipcoin-headstails.git"
+  },
+  "keywords": [
+    "flip",
+    "coin",
+    "heads",
+    "tails"
+  ],
+  "author": "Arish Rehman Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arishrehmankhan/flipcoin-headtails/issues"
+  },
+  "homepage": "https://github.com/arishrehmankhan/flipcoin-headtails#readme"
+}
