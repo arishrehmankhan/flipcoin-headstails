@@ -6,5 +6,5 @@
 if (Math.random() >= 0.5) {
     console.log("It is Heads");
 } else {
-    console.log("it is Tails");
+    console.log("It is Tails");
 }
